@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodingGuin
+- 👋 Hi, I’m @CodingGuin or Darren Seah
 - 👀 I’m interested in bouldering and Rubik's cube!
 - 🌱 I’m currently taking a degree on Computer Science & Forensics at Kaplan - Murdoch University
 - 💞️ I’m looking to collaborate on anything I can help with :)
